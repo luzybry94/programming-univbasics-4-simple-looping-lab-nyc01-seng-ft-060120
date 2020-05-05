@@ -32,8 +32,6 @@ def return_string_array(array)
   end
   new_array
 end
-    
-end
 
 
 
